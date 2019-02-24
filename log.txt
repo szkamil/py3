@@ -1,0 +1,5 @@
+INFO:testLogger:afsdsd
+INFO:root:afsdsd
+INFO:root:afsdsd
+INFO 2019-02-24 16:58:34,612 - afsdsd
+INFO 2019-02-24 16:58:37,814 - afsdsd
